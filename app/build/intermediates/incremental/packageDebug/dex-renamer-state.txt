@@ -1,0 +1,7 @@
+#Sat Jul 29 11:39:56 IST 2017
+base.0=E\:\\My android projects\\FirebaseSample-master\\FirebaseSample-master\\Whisper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f7505cf9c66a367eaf9b3da97384194a6a94204
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\My android projects\\FirebaseSample-master\\FirebaseSample-master\\Whisper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_da6e86c3db08f8bdd274f994109d1940dc7bab1f\\classes.dex
+base.1=E\:\\My android projects\\FirebaseSample-master\\FirebaseSample-master\\Whisper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_da6e86c3db08f8bdd274f994109d1940dc7bab1f
+file.0=E\:\\My android projects\\FirebaseSample-master\\FirebaseSample-master\\Whisper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f7505cf9c66a367eaf9b3da97384194a6a94204\\classes.dex
