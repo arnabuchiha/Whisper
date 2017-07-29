@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jul 29 11:39:36 IST 2017
+#Sat Jul 29 14:38:30 IST 2017
 210.set=ANDROID_RESOURCE
 282.file=E\:\\My android projects\\FirebaseSample-master\\FirebaseSample-master\\Whisper\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_navigation_item_separator.xml
 14.set=ANDROID_RESOURCE

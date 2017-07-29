@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml
@@ -21,7 +21,7 @@ MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\arnab\.android\bu
 	android:name
 		ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:6:5-38:19
+ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:6:5-33:19
 MERGED from [com.android.volley:volley:1.0.0] C:\Users\arnab\.android\build-cache\2bdee85c867d8554cf39a0017a7831b4a9edf67b\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\arnab\.android\build-cache\2e3910c8498b74a50dc7b5c6ac256793c08e99ed\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\arnab\.android\build-cache\f5e0df5d5eb5cf876351e749c6123fe4ca4bf931\output\AndroidManifest.xml:29:5-20
@@ -81,7 +81,7 @@ ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Wh
 	android:name
 		ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:27:19-39
 activity#com.vitualsenseltd.arnab.whisper.MainActivity
-ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:28:9-37:20
+ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:28:9-32:20
 	android:label
 		ADDED from E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\src\main\AndroidManifest.xml:30:13-45
 	android:theme

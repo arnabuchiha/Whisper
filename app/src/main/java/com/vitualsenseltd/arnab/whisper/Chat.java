@@ -1,5 +1,6 @@
 package com.vitualsenseltd.arnab.whisper;
 
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -106,6 +107,21 @@ public class Chat extends AppCompatActivity {
         }
 
         layout.addView(textView);
-        scrollView.fullScroll(View.FOCUS_DOWN);
+        sendScroll();
+    }
+    private void sendScroll(){
+        final Handler handler = new Handler();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {Thread.sleep(100);} catch (InterruptedException e) {}
+                handler.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        scrollView.fullScroll(View.FOCUS_DOWN);
+                    }
+                });
+            }
+        }).start();
     }
 }

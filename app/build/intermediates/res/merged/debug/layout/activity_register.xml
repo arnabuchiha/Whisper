@@ -20,22 +20,22 @@
         android:layout_marginBottom="20dp"/>
 
     <EditText
+        android:id="@+id/username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/username"
+        android:layout_marginBottom="10dp"
+        android:hint="Enter Username"
         android:inputType="text"
-        android:maxLines="1"
-        android:hint="enter username"
-        android:layout_marginBottom="10dp"/>
+        android:maxLines="1" />
 
     <EditText
+        android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/password"
+        android:layout_marginBottom="10dp"
+        android:hint="Enter Password"
         android:inputType="textPassword"
-        android:maxLines="1"
-        android:hint="enter password"
-        android:layout_marginBottom="10dp"/>
+        android:maxLines="1" />
 
     <Button
         android:layout_width="match_parent"

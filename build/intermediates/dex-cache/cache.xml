@@ -7,44 +7,170 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="1298c93b613709aa3bfa0264d90bb8d345d9984c">
+        sha1="931bf22f2e6312082737b127e6914be82dfdadf8">
         <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8f7505cf9c66a367eaf9b3da97384194a6a94204\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.android\build-cache\d854b2be356364a567a7584b14aa9f54add99dee\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\0df847ecb21e1f4b58cdd4a27690a6177f2732a0\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c7c0f334063c29906334f78b2bedc724ea2476e\classes.dex" />
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_4d9a55e324dac3bb03c07cfd0fa4e67e40dd1cec.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_8d2d3486abcd96c805c8caeaf8641d98bfe39f9e\classes.dex" />
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_8d2d3486abcd96c805c8caeaf8641d98bfe39f9e.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_11ca0973332fc3f74d44e243fd21028aac04480b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\arnab\.android\build-cache\aa14908b5e5242be437bcb0d33610ea24876983d\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63671b0c2b1282e56b09e64fdf759816508c6f14\classes.dex" />
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_63671b0c2b1282e56b09e64fdf759816508c6f14.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\254b966c2ac38fbda7504bbe39492537a43a301e\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_306bedf964b6798efad9dcd46da1cc05dabbc372\classes.dex" />
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_4dc2998f2afd200ed89c88a9267cad6616426446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\10f577e8673c131d47198e79130c535c0a1381e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_5434c90140ded8eb7f3e7df0efd99f4fd8cf4f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\920d8fd1a7e8573f735ba383f90b128e77e98658\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_3cb7b768402cf89e482bd38159e32cc7e741caf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_5e35254406a0ca964b0eaa45d95c0e541f8ec052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\2e3910c8498b74a50dc7b5c6ac256793c08e99ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_8b920b06810a760b62d9e82c4324ad1b8f054708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\968316259bae53b60dd71dabc68b8cb4734894a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_ed4693397d8477504003f9c4d8498ae0c7305a1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\3d0d2113dff08ff5abff5b687629119cb472fb39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_ee652db0c603ef95bea84410e6619111c7d4f879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\d854b2be356364a567a7584b14aa9f54add99dee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_1c7c0f334063c29906334f78b2bedc724ea2476e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_3da873fa4bba7a20eb732a372d0ba09647b82ce6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\33e7a3bb2332d3a51b8dfc02099699d30688866c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_9b7b8cb73282c2a5c428ddf19d6c99886d91ec07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_895f96633e7064628ba384eff13b6aca96e41bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\ad2788e7a2574a6b33af91f125c360da60fa3a9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_158be7163b1ef413e6f099430529450228629e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\052e070c9c1d451c4e71de9ab3fd0bc1d889541f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_82fa87363510700cb69f39709e8e037e67d249fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\f5e0df5d5eb5cf876351e749c6123fe4ca4bf931\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_26a77c619a5f62089c08ad10d2b0fa7afd3f4940.jar" />
     </item>
     <item
         is-multidex="true"
@@ -56,103 +182,112 @@
         <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_da6e86c3db08f8bdd274f994109d1940dc7bab1f\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_11ca0973332fc3f74d44e243fd21028aac04480b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\arnab\.android\build-cache\2bdee85c867d8554cf39a0017a7831b4a9edf67b\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8a6f63a0fbb603342859cdc714facb4dd05a887\classes.dex" />
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_b8a6f63a0fbb603342859cdc714facb4dd05a887.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.android\build-cache\0df847ecb21e1f4b58cdd4a27690a6177f2732a0\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d9a55e324dac3bb03c07cfd0fa4e67e40dd1cec\classes.dex" />
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_306bedf964b6798efad9dcd46da1cc05dabbc372.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\3cffeb20f9d03f7f50ae056bb2165f207997b94d\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_2b2f25cde57212db681295bde079f27a7d8d712a\classes.dex" />
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_efc5e458ba5654aae63c14b98b3be6dc53b78cb7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.android\build-cache\531eb2860456e37be5deb72992c0cd8fd9e54040\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\fbd9d14ecc8293770addb2017540330d82724269\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e7e80159672da4d6aa82524a93c44704d65ed2e\classes.dex" />
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_f21d7bb4d1f73ce3cf6f9640ffae9ee13209f797.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\b95ca1e21acca84774f0ccf50f5915d511770ef9\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_5e35254406a0ca964b0eaa45d95c0e541f8ec052\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_af9319fe6a21391269fc7543ba3bcc043d4fa5da.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_a40e35ecbc46241513cd5b3d4a8539fde133986a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\arnab\.android\build-cache\a62eaaa70d6cfa12cd10b7f0223c684ec6a7180b\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c8975ee288a1ba4f4d52550aef1fa06df864fac\classes.dex" />
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_7c8975ee288a1ba4f4d52550aef1fa06df864fac.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.android\build-cache\968316259bae53b60dd71dabc68b8cb4734894a6\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed4693397d8477504003f9c4d8498ae0c7305a1e\classes.dex" />
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_2b2f25cde57212db681295bde079f27a7d8d712a.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_a40e35ecbc46241513cd5b3d4a8539fde133986a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\531eb2860456e37be5deb72992c0cd8fd9e54040\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_3e7e80159672da4d6aa82524a93c44704d65ed2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\03982c0ab96587c07add05e47d2ac488087eb6c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_58d3fd89787d9438573ddf2952f63150f54ce50b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\arnab\.android\build-cache\380df05ef15d5d7d5c6b0989d51144337ffedae0\output\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d7bbc76764cc073b1547a4a98963349d1346894\classes.dex" />
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_8d7bbc76764cc073b1547a4a98963349d1346894.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\arnab\.android\build-cache\052e070c9c1d451c4e71de9ab3fd0bc1d889541f\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\arnab\.android\build-cache\7b3eae801c55a1bb8e8608f93d0898664487f611\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82fa87363510700cb69f39709e8e037e67d249fa\classes.dex" />
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\My android projects\FirebaseSample-master\FirebaseSample-master\Whisper\app\build\intermediates\pre-dexed\debug\classes_4675f9366e61cdd2cee485c8b7409df41ccacc76.jar" />
     </item>
 
 </items>
