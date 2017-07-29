@@ -42,7 +42,7 @@ public class Users extends AppCompatActivity {
         pd.setMessage("Loading...");
         pd.show();
 
-        String url = "https://android-chat-app-e711d.firebaseio.com/users.json";
+        String url = "https://whisper-b5b55.firebaseio.com/users.json";
 
         StringRequest request = new StringRequest(Request.Method.GET, url, new Response.Listener<String>(){
             @Override
