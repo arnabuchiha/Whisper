@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "364573350442",
+    "firebase_url": "https://whisper-b5b55.firebaseio.com",
+    "project_id": "whisper-b5b55",
+    "storage_bucket": "whisper-b5b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364573350442:android:83bdf960162b00e6",
+        "android_client_info": {
+          "package_name": "com.vitualsenseltd.arnab.whisper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364573350442-54ga812i3m89k805d55n9ormoj5sjk2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitualsenseltd.arnab.whisper",
+            "certificate_hash": "bdc808740d873298ddb8ab2456d9e59865d6abbf"
+          }
+        },
+        {
+          "client_id": "364573350442-59koqk1pbscdarh6mock5ajk50i41uuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrXw7TsRw0F4uPQFcTDpBxZl_LyJhQf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364573350442-59koqk1pbscdarh6mock5ajk50i41uuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
